@@ -1,0 +1,1697 @@
+{
+  "total_pages": 1540,
+  "provinces_found": [
+    "上海",
+    "云南",
+    "内蒙古",
+    "北京",
+    "吉林",
+    "四川",
+    "天津",
+    "宁夏",
+    "安徽省",
+    "山东",
+    "山西",
+    "广东",
+    "广西",
+    "新疆",
+    "江苏",
+    "江西",
+    "河北",
+    "河南",
+    "浙江",
+    "海南",
+    "湖北",
+    "湖南",
+    "甘肃",
+    "福建",
+    "贵州",
+    "辽宁",
+    "重庆",
+    "陕西",
+    "青海",
+    "黑龙江"
+  ],
+  "province_sections": {
+    "浙江": [
+      {
+        "start_page": 16,
+        "end_page": 16,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 561,
+        "end_page": 561,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1443,
+        "end_page": 1443,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1480,
+        "end_page": 1480,
+        "keywords": [
+          "量刑情节"
+        ],
+        "page_count": 1
+      }
+    ],
+    "山东": [
+      {
+        "start_page": 508,
+        "end_page": 508,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 846,
+        "end_page": 846,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1038,
+        "end_page": 1038,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1443,
+        "end_page": 1443,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1532,
+        "end_page": 1532,
+        "keywords": [
+          "关于办理",
+          "关于常见犯罪",
+          "量刑指导意见"
+        ],
+        "page_count": 1
+      }
+    ],
+    "新疆": [
+      {
+        "start_page": 18,
+        "end_page": 21,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 4
+      },
+      {
+        "start_page": 105,
+        "end_page": 105,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 142,
+        "end_page": 142,
+        "keywords": [
+          "关于常见犯罪",
+          "量刑情节",
+          "量刑指导意见",
+          "量刑规范",
+          "量刑规范化"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 161,
+        "end_page": 161,
+        "keywords": [
+          "量刑情节"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 169,
+        "end_page": 169,
+        "keywords": [
+          "关于办理",
+          "量刑情节"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 198,
+        "end_page": 198,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 206,
+        "end_page": 206,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 240,
+        "end_page": 244,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 5
+      },
+      {
+        "start_page": 261,
+        "end_page": 261,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 288,
+        "end_page": 288,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 295,
+        "end_page": 295,
+        "keywords": [
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 339,
+        "end_page": 339,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 371,
+        "end_page": 371,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 419,
+        "end_page": 419,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 501,
+        "end_page": 501,
+        "keywords": [
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 548,
+        "end_page": 551,
+        "keywords": [
+          "关于办理",
+          "量刑情节",
+          "量刑标准"
+        ],
+        "page_count": 4
+      },
+      {
+        "start_page": 560,
+        "end_page": 560,
+        "keywords": [
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 603,
+        "end_page": 603,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 646,
+        "end_page": 646,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 778,
+        "end_page": 778,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 890,
+        "end_page": 890,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 935,
+        "end_page": 939,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 5
+      },
+      {
+        "start_page": 945,
+        "end_page": 945,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1030,
+        "end_page": 1034,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 5
+      },
+      {
+        "start_page": 1078,
+        "end_page": 1078,
+        "keywords": [
+          "关于办理",
+          "关于常见犯罪",
+          "基准刑",
+          "增加刑罚量",
+          "量刑情节",
+          "量刑指导意见",
+          "量刑起点"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1089,
+        "end_page": 1089,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1095,
+        "end_page": 1095,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1250,
+        "end_page": 1250,
+        "keywords": [
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1353,
+        "end_page": 1358,
+        "keywords": [
+          "关于办理",
+          "量刑情节",
+          "量刑标准"
+        ],
+        "page_count": 6
+      }
+    ],
+    "福建": [
+      {
+        "start_page": 208,
+        "end_page": 208,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 223,
+        "end_page": 223,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 662,
+        "end_page": 662,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 672,
+        "end_page": 672,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 724,
+        "end_page": 724,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 815,
+        "end_page": 815,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1409,
+        "end_page": 1409,
+        "keywords": [
+          "关于办理",
+          "量刑情节"
+        ],
+        "page_count": 1
+      }
+    ],
+    "安徽省": [
+      {
+        "start_page": 20,
+        "end_page": 20,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 293,
+        "end_page": 293,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 817,
+        "end_page": 817,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1389,
+        "end_page": 1389,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "四川": [
+      {
+        "start_page": 34,
+        "end_page": 34,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 45,
+        "end_page": 45,
+        "keywords": [
+          "关于办理",
+          "量刑情节"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 254,
+        "end_page": 254,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 695,
+        "end_page": 695,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 817,
+        "end_page": 817,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1321,
+        "end_page": 1321,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1423,
+        "end_page": 1423,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "贵州": [
+      {
+        "start_page": 32,
+        "end_page": 32,
+        "keywords": [
+          "关于办理",
+          "量刑情节"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 700,
+        "end_page": 700,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 724,
+        "end_page": 724,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 858,
+        "end_page": 858,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1498,
+        "end_page": 1498,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1533,
+        "end_page": 1533,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "北京": [
+      {
+        "start_page": 42,
+        "end_page": 42,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 230,
+        "end_page": 230,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 245,
+        "end_page": 245,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 365,
+        "end_page": 365,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 379,
+        "end_page": 379,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 385,
+        "end_page": 385,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 658,
+        "end_page": 658,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1151,
+        "end_page": 1151,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1389,
+        "end_page": 1389,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1430,
+        "end_page": 1430,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "广东": [
+      {
+        "start_page": 84,
+        "end_page": 84,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 105,
+        "end_page": 105,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 163,
+        "end_page": 163,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 252,
+        "end_page": 252,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 664,
+        "end_page": 664,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 794,
+        "end_page": 794,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 871,
+        "end_page": 871,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 893,
+        "end_page": 893,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "宁夏": [
+      {
+        "start_page": 210,
+        "end_page": 210,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 864,
+        "end_page": 864,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "湖北": [
+      {
+        "start_page": 64,
+        "end_page": 64,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 80,
+        "end_page": 80,
+        "keywords": [
+          "量刑情节"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 254,
+        "end_page": 254,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 460,
+        "end_page": 460,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 876,
+        "end_page": 876,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "陕西": [
+      {
+        "start_page": 345,
+        "end_page": 345,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 485,
+        "end_page": 485,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 529,
+        "end_page": 529,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 858,
+        "end_page": 858,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1446,
+        "end_page": 1446,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1482,
+        "end_page": 1482,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "天津": [
+      {
+        "start_page": 296,
+        "end_page": 296,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 303,
+        "end_page": 303,
+        "keywords": [
+          "量刑标准"
+        ],
+        "page_count": 1
+      }
+    ],
+    "甘肃": [
+      {
+        "start_page": 689,
+        "end_page": 689,
+        "keywords": [
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1323,
+        "end_page": 1324,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 2
+      },
+      {
+        "start_page": 1333,
+        "end_page": 1333,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "江苏": [
+      {
+        "start_page": 81,
+        "end_page": 81,
+        "keywords": [
+          "量刑情节"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 365,
+        "end_page": 365,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 429,
+        "end_page": 429,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 544,
+        "end_page": 544,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 611,
+        "end_page": 611,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 665,
+        "end_page": 665,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 864,
+        "end_page": 864,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 956,
+        "end_page": 956,
+        "keywords": [
+          "基准刑",
+          "增加刑罚量",
+          "量刑起点"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1068,
+        "end_page": 1068,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1359,
+        "end_page": 1359,
+        "keywords": [
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1398,
+        "end_page": 1398,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1443,
+        "end_page": 1443,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1533,
+        "end_page": 1533,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "河南": [
+      {
+        "start_page": 84,
+        "end_page": 84,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 168,
+        "end_page": 168,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 296,
+        "end_page": 296,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1414,
+        "end_page": 1414,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "河北": [
+      {
+        "start_page": 292,
+        "end_page": 292,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 694,
+        "end_page": 694,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 721,
+        "end_page": 721,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 817,
+        "end_page": 817,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1398,
+        "end_page": 1398,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "上海": [
+      {
+        "start_page": 491,
+        "end_page": 491,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 695,
+        "end_page": 695,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "青海": [
+      {
+        "start_page": 161,
+        "end_page": 161,
+        "keywords": [
+          "量刑情节"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 207,
+        "end_page": 207,
+        "keywords": [
+          "关于办理",
+          "量刑情节"
+        ],
+        "page_count": 1
+      }
+    ],
+    "广西": [
+      {
+        "start_page": 186,
+        "end_page": 186,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 846,
+        "end_page": 846,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1002,
+        "end_page": 1002,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1377,
+        "end_page": 1377,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "重庆": [
+      {
+        "start_page": 529,
+        "end_page": 529,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 687,
+        "end_page": 690,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 4
+      },
+      {
+        "start_page": 858,
+        "end_page": 858,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 888,
+        "end_page": 888,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1482,
+        "end_page": 1482,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "云南": [
+      {
+        "start_page": 427,
+        "end_page": 427,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1072,
+        "end_page": 1072,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "辽宁": [
+      {
+        "start_page": 629,
+        "end_page": 629,
+        "keywords": [
+          "量刑标准"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 861,
+        "end_page": 866,
+        "keywords": [
+          "关于办理",
+          "关于常见犯罪",
+          "量刑指导意见"
+        ],
+        "page_count": 6
+      },
+      {
+        "start_page": 895,
+        "end_page": 895,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1433,
+        "end_page": 1433,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 1482,
+        "end_page": 1482,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      }
+    ],
+    "山西": [
+      {
+        "start_page": 611,
+        "end_page": 611,
+        "keywords": [
+          "关于办理"
+        ],
+        "page_count": 1
+      },
+      {
+        "start_page": 621,
+        "end_page": 621,
+        "keywords": [
+          "关于办理",
+          "量刑标准"
+        ],
+        "page_count": 1
+      }
+    ]
+  },
+  "province_pages": {
+    "上海": [
+      110,
+      189,
+      228,
+      453,
+      491,
+      695,
+      696,
+      799,
+      1064,
+      1239,
+      1483
+    ],
+    "云南": [
+      291,
+      427,
+      438,
+      472,
+      475,
+      477,
+      479,
+      554,
+      566,
+      816,
+      1072,
+      1275
+    ],
+    "内蒙古": [
+      67,
+      1221
+    ],
+    "北京": [
+      42,
+      93,
+      173,
+      230,
+      231,
+      245,
+      289,
+      298,
+      301,
+      305,
+      312,
+      313,
+      319,
+      365,
+      379,
+      385,
+      471,
+      475,
+      536,
+      658,
+      670,
+      673,
+      894,
+      948,
+      1008,
+      1017,
+      1151,
+      1389,
+      1413,
+      1417,
+      1430,
+      1441,
+      1471,
+      1472
+    ],
+    "吉林": [
+      170,
+      756,
+      758,
+      912,
+      1221,
+      1251,
+      1488
+    ],
+    "四川": [
+      22,
+      34,
+      45,
+      68,
+      92,
+      111,
+      195,
+      221,
+      229,
+      254,
+      300,
+      319,
+      469,
+      473,
+      532,
+      695,
+      747,
+      798,
+      817,
+      854,
+      859,
+      1321,
+      1412,
+      1422,
+      1423
+    ],
+    "天津": [
+      68,
+      225,
+      228,
+      291,
+      296,
+      300,
+      303,
+      308,
+      315,
+      318,
+      862,
+      1432
+    ],
+    "宁夏": [
+      46,
+      94,
+      210,
+      864,
+      1436,
+      1492
+    ],
+    "安徽省": [
+      20,
+      220,
+      293,
+      380,
+      667,
+      817,
+      1389
+    ],
+    "山东": [
+      17,
+      75,
+      195,
+      304,
+      309,
+      449,
+      508,
+      528,
+      696,
+      846,
+      863,
+      894,
+      1038,
+      1435,
+      1443,
+      1532
+    ],
+    "山西": [
+      611,
+      616,
+      620,
+      621,
+      857
+    ],
+    "广东": [
+      46,
+      84,
+      105,
+      163,
+      171,
+      172,
+      252,
+      380,
+      472,
+      484,
+      505,
+      556,
+      572,
+      660,
+      664,
+      681,
+      794,
+      871,
+      893
+    ],
+    "广西": [
+      186,
+      197,
+      846,
+      847,
+      1002,
+      1377,
+      1382
+    ],
+    "新疆": [
+      18,
+      21,
+      105,
+      142,
+      161,
+      169,
+      171,
+      177,
+      198,
+      206,
+      240,
+      244,
+      250,
+      261,
+      288,
+      295,
+      339,
+      371,
+      380,
+      399,
+      409,
+      419,
+      470,
+      497,
+      501,
+      510,
+      548,
+      551,
+      560,
+      603,
+      646,
+      659,
+      675,
+      696,
+      718,
+      778,
+      798,
+      852,
+      863,
+      878,
+      881,
+      890,
+      935,
+      939,
+      945,
+      1030,
+      1032,
+      1034,
+      1078,
+      1080,
+      1089,
+      1095,
+      1218,
+      1250,
+      1275,
+      1353,
+      1358,
+      1383,
+      1387,
+      1403
+    ],
+    "江苏": [
+      81,
+      222,
+      286,
+      365,
+      429,
+      430,
+      544,
+      582,
+      589,
+      611,
+      616,
+      620,
+      645,
+      665,
+      847,
+      863,
+      864,
+      894,
+      956,
+      1068,
+      1359,
+      1388,
+      1398,
+      1436,
+      1443,
+      1533
+    ],
+    "江西": [
+      75,
+      188,
+      209,
+      480,
+      1483
+    ],
+    "河北": [
+      104,
+      209,
+      292,
+      574,
+      694,
+      721,
+      770,
+      817,
+      1398
+    ],
+    "河南": [
+      84,
+      168,
+      296,
+      563,
+      645,
+      847,
+      1082,
+      1171,
+      1368,
+      1414
+    ],
+    "浙江": [
+      16,
+      94,
+      453,
+      561,
+      1443,
+      1480
+    ],
+    "海南": [
+      1322,
+      1366
+    ],
+    "湖北": [
+      64,
+      69,
+      76,
+      80,
+      138,
+      254,
+      322,
+      460,
+      816,
+      862,
+      876,
+      877,
+      1083,
+      1118
+    ],
+    "湖南": [
+      95,
+      464
+    ],
+    "甘肃": [
+      77,
+      297,
+      572,
+      689,
+      1323,
+      1324,
+      1326,
+      1333,
+      1364
+    ],
+    "福建": [
+      19,
+      113,
+      208,
+      220,
+      223,
+      527,
+      581,
+      662,
+      672,
+      724,
+      747,
+      799,
+      815,
+      1366,
+      1409,
+      1477
+    ],
+    "贵州": [
+      32,
+      700,
+      724,
+      847,
+      858,
+      1036,
+      1498,
+      1533
+    ],
+    "辽宁": [
+      309,
+      409,
+      629,
+      682,
+      813,
+      861,
+      866,
+      895,
+      1091,
+      1221,
+      1433,
+      1482,
+      1483
+    ],
+    "重庆": [
+      227,
+      301,
+      308,
+      484,
+      529,
+      687,
+      690,
+      858,
+      888,
+      894,
+      1412,
+      1482
+    ],
+    "陕西": [
+      67,
+      225,
+      345,
+      484,
+      485,
+      529,
+      745,
+      761,
+      769,
+      770,
+      780,
+      781,
+      858,
+      862,
+      1446,
+      1471,
+      1482
+    ],
+    "青海": [
+      161,
+      207
+    ],
+    "黑龙江": [
+      1221
+    ]
+  },
+  "page_matches_count": 885
+}
