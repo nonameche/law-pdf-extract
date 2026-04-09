@@ -1,3 +1,4 @@
+# === Python ===
 __pycache__/
 *.pyc
 *.pyo
@@ -9,24 +10,31 @@ dist/
 build/
 *.egg
 
-.feishu_cmd/
-
+# === 环境与密钥 ===
 .venv/
 venv/
 env/
-
 .env
 *.secret
-*.log
 
+# === 运行时产物 ===
+*.log
 _progress.json
 
+# === 中间文件（不提交到版本控制） ===
+test_raw/
+test_output/
+diag_output/
+
+# === IDE ===
 .DS_Store
 Thumbs.db
-
 .idea/
 .vscode/
 *.swp
 *.swo
 *~
-</arg_value></tool_call>
+
+# === 系统文件 ===
+.feishu_cmd/
+Desktop.ini
